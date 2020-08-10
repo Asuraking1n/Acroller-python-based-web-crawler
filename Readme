@@ -1,0 +1,4 @@
+How to install ?
+git clone <url>
+open folder right click and type
+python main.py
